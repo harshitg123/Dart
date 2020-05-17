@@ -1,5 +1,20 @@
 # Dart
 * Contains DART programming language 
+
+# Topic's Included
+  * Basics of Dart.
+  * Data types.
+  * String.
+  * Type Conversions
+  * Constant
+  * Null
+  * Operators.
+  * Loop
+  * Collections [List,Set,Map].
+  * Functions.
+  * Class.
+  * Exception Handling.
+  
 # Software Required
    1. Dart-SDK - INSTALLATION
       
@@ -30,18 +45,6 @@
                
         * Download Visual Studio from https://code.visualstudio.com.                  
 
-# Topic's Included
-  * Basics of Dart.
-  * Data types.
-  * String.
-  * Type Conversions
-  * Constant
-  * Null
-  * Operators.
-  * Loop
-  * Collections [List,Set,Map].
-  * Functions.
-  * Class.
-  * Exception Handling.
+
       
 
