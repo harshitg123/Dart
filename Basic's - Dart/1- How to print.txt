@@ -8,3 +8,4 @@ We can use in built function print for printing some thing.
      print("My name is '$name'");
 
 Note: Here "$name" is called *string interpolation* 
+      For better understanding see example
