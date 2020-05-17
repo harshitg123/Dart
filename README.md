@@ -6,7 +6,7 @@
    * Goto https://dart.dev/tools/sdk/archive for windows.
      
          step 1: Download the zip file from above url.
-     
+  ![](image's/1.png)   
          step 2: Un zip the download file i.e. extract that file.
      
          step 3: Past the un-zipped folder you get in any of the drive 
