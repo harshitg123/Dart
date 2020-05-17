@@ -1,0 +1,10 @@
+We can use in built function print for printing some thing.
+   
+     print("Welcome to Dart");
+  
+1. suppose *name* is an string variable and contain name Harshit gupta so 
+   to print my name we will write print slightly in diffrent way.
+    
+     print("My name is '$name'");
+
+Note: Here "$name" is called *string interpolation* 
