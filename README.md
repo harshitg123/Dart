@@ -1,7 +1,6 @@
 # Dart
 * Contains DART programming language
-* Used in flutter
-* 
+* Used in flutter 
 
 # Topic's Included
   * Basics of Dart.
