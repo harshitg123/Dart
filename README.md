@@ -23,5 +23,11 @@
            
          step 6: Restrt the command prompt.
      
-   2.  Atom Text Editor - Installation OR any text editor you have but strongly recommended to use "Atom" or "visual studio".   
+   2.  Atom Text Editor - Installation OR any text editor you have but strongly recommended to use "Atom" or "visual studio". 
+         
+         Download Atom from https://atom.io/ this lin                          
+               
+         Download Visual Studio from https://code.visualstudio.com/                  
+      
+      
 
