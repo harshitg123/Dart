@@ -16,6 +16,6 @@
   ![](image's/3p.PNG)
   
          step 4: Open command prompt and set the directory to the bin folder of dart-sdk.        
-      
+  ![](image's/4.png)    
 
 
