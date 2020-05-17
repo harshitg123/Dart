@@ -20,5 +20,8 @@
         
          step 5: Add Dart Path to PATH Environment Variable
   ![](image's/4.png)
-
+           
+         step 6: Restrt the command prompt.
+     
+   2.  Atom Text Editor - Installation    
 
