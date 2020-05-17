@@ -9,5 +9,5 @@ void main()
 /* Output on console are:
    Enter your name:
    Harshit Gupta
-   Your name is Harshit gupta
+   Your name is 'Harshit gupta'
  */
