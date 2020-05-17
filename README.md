@@ -13,9 +13,15 @@
          
          step 3: Past the un-zipped folder you get in any of the drive 
                  strongly recommended to past in the drive windows installed.
-  ![](image's/3.png)
+  ![](image's/3p.PNG)
   
-         step 4: Open command prompt and set the directory to the bin folder of dart-sdk.        
-      
-
+         step 4: Open command prompt and set the directory to the bin folder of dart-sdk and run it for once.        
+  ![](image's/5.png)
+        
+         step 5: Add Dart Path to PATH Environment Variable
+  ![](image's/4.png)
+           
+         step 6: Restrt the command prompt.
+     
+   2.  Atom Text Editor - Installation OR any text editor you have but strongly recommended to use "Atom" or "visual studio".   
 
