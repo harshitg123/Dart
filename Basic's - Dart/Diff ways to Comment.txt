@@ -1,0 +1,13 @@
+==> Diffrent Ways to Comment.
+
+1. For line's we have simple comment *//*.
+    //Example for comment like this.
+
+2. For Blog or multiple line's are /*(open).....*/(close).
+    /* hi all of you
+       what you are doing
+       ....................
+       .................... */
+
+3. For Documantation *///*.
+    /// doc comments to document members and types.
