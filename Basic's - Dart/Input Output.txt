@@ -1,0 +1,8 @@
+1. In dart input and output are done by including a library calles *dart:io*
+    - import 'dart:io';
+
+2. For output we have to write:
+    - stdout.writeln("For example:");
+
+3. For input we have to write:
+    - stdin.readLineSync(); 
