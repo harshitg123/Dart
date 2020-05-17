@@ -13,7 +13,7 @@
          
          step 3: Past the un-zipped folder you get in any of the drive 
                  strongly recommended to past in the drive windows installed.
-  ![](image's/3.png)
+  ![](image's/3p.png)
   
          step 4: Open command prompt and set the directory to the bin folder of dart-sdk.        
       
