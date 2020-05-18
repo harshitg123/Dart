@@ -1,5 +1,6 @@
 # Dart
 * Contains DART programming language
+* Dart is object oriented language
 * Used in flutter 
 
 # Topic's Included

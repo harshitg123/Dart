@@ -14,7 +14,11 @@ Note 1: In order to define above data types we can also define them by writing '
         value is assigned to them.
         
           example:
+<<<<<<< HEAD:2-Data type's/1-Diff. Data Types.txt
                   var num = 100 OR int num = 100 (These both are same)
+=======
+                  var num = 100  OR int num = 100
+>>>>>>> 39809d1e9a13ee975a817692ad62cf26484f2e97:Data type's/1-Diff. Data Types.txt
                   
                   var name = 'harsh' OR String name = 'harsh' (These both are same)
 
