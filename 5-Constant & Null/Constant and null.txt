@@ -1,0 +1,16 @@
+In Dart we can use constant and null like we use in all other programming langauge:
+
+1. Constant:
+
+ Syntax: 
+        const int a = 0;
+	const double b = 1.1125;
+	const String c = 'Hope you all good:)';	
+	const bool check = true;
+
+2. Null:
+ 
+ Syntax:
+	int num = null;
+
+Note: In example you will understand better.

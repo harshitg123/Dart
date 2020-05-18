@@ -1,0 +1,53 @@
+                        String
+
+In Dart String can be defined by the following methodes:
+
+1. var S1 = 'Single quotes work for string literals.';
+2. var S2 = "Double quotes also work for string literals.";
+3. var S3 = 'It\'s easy to escape the string delimiter.';
+4. var S4 = "It's even easier to use the other delimiter.";
+
+If we wanna to print special character like \n we use "raw string":
+
+1. var S1 = r"It is \n nice bro:)";
+
+======================================================================================================================================
+String Interpolation:-
+======================================================================================================================================
+
+String interpolation in simple words means to replace the variable value within a string.
+
+syntax of string interpolation:  $<name of the variable>
+                                    
+for example:
+            var s1 = 'gupta';
+            var s2 = 'my name is harshit $s1'; 
+
+======================================================================================================================================
+Multi-Line String
+======================================================================================================================================
+
+Multi-line string in dart is represented either tripple('''........''') 
+single quotes or three("""....""") double quotes.
+
+syntax: 
+   1.    var s1 = ''' hello everyone
+                      welcome to learn dart
+                      it is oop type
+                      it is used to make app'''
+
+   2.    var s2 = """ hello everyone
+                      welcome to learn dart
+                      it is oop type
+                      it is used to make app"""
+
+
+
+
+
+
+
+
+
+
+

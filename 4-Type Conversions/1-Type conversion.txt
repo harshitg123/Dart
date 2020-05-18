@@ -1,0 +1,54 @@
+In Dart Type casting is done in four formats:
+ 
+	1. String to int
+	2. String to double
+	3. int to String
+	4. int to Double
+
+======================================================================
+1. String to int:
+======================================================================
+we can convert String value to an integer value by the 'int.parse()' object
+
+syntax:
+        int a;
+        a = int.parse('1');
+	assert(a==1);
+
+=====================================================================================================
+2. String to double:
+=======================================================================================================
+we can convert String value to a Double value by the 'double.parse()' object
+
+Syntex:
+        double a;
+        a = double.parse('1');
+	assert(a==1);
+
+=============================================================================================================
+3. int to String:
+================================================================================================================
+we can convert integer value to an String value by the 'integer.toString()' method:
+
+Syntax:
+	String c;
+	c = 12.toString();
+	assert(c=='1');
+
+==========================================================================================================================
+4. int to Double:
+=============================================================================================================================
+we can convert double value to an String value by the 'double.toStringAsFixed(< number of pression>)' method:
+
+Syntax:
+	String c;
+	c = 12.toString();
+	assert(c=='1');
+
+=================================================================================================================================
+Important Notes:
+============================================================================================================================
+Note 1: Here assert() is an inbuilt function which is checking that the following 
+        value is converted or not and return true or false. 
+
+Note 2: If when we are converting string to an integer then be carefully not to give string of characters. 	
