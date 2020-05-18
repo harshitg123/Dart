@@ -44,7 +44,7 @@
    
    2.  Atom Text Editor - Installation OR any text editor you have but strongly recommended to use "Atom" or "visual studio". 
          
-        * Download Atom from https://atom.io this link.                          
+        * Download Atom from https://atom.io this link                         
                
         * Download Visual Studio from https://code.visualstudio.com.                  
 
