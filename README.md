@@ -1,9 +1,26 @@
 # Dart
-* Contains DART programming language 
+* Contains DART programming language
+* Used in flutter 
+
+# Topic's Included
+  * Basics of Dart.
+  * Data types.
+  * String.
+  * Type Conversions
+  * Constant
+  * Null
+  * Operators.
+  * Loop
+  * Collections [List,Set,Map].
+  * Functions.
+  * Class.
+  * Exception Handling.
+  
 # Software Required
    1. Dart-SDK - INSTALLATION
       
    * Goto https://dart.dev/tools/sdk/archive for windows.
+   * Goto https://dart.dev/get-dart for Linux and Mac.
      
          step 1: Download the zip file from above url.
   ![](image's/1.png)   
@@ -23,5 +40,13 @@
            
          step 6: Restrt the command prompt.
      
-   2.  Atom Text Editor - Installation OR any text editor you have but strongly recommended to use "Atom" or "visual studio".   
+   
+   2.  Atom Text Editor - Installation OR any text editor you have but strongly recommended to use "Atom" or "visual studio". 
+         
+        * Download Atom from https://atom.io this link.                          
+               
+        * Download Visual Studio from https://code.visualstudio.com.                  
+
+
+      
 
