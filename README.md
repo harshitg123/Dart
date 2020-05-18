@@ -20,6 +20,7 @@
    1. Dart-SDK - INSTALLATION
       
    * Goto https://dart.dev/tools/sdk/archive for windows.
+   * Goto https://dart.dev/get-dart for Linux and Mac.
      
          step 1: Download the zip file from above url.
   ![](image's/1.png)   
