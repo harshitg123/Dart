@@ -1,0 +1,21 @@
+In Dart there are 5 Basics Data types.
+  1. int
+  2. double
+  3. String
+  4. bool 
+The above 4 are the fundamental or can be execute on compile time 
+but there is 1 data type name called 'dynamic', which execute at run time.
+  5. dynamic
+
+
+Note 1: In order to define above data types we can also define them by writing 'var' it 
+        automatically detect that which type of data type has to defined based on the type of 
+        value is assigned to them.
+        
+          example:
+                  var num = 100 is OR int num = 100
+                  
+                  var name = 'harsh' OR String name = 'harsh'
+
+Note 2: In example you will see how these all 5 data types can be defined and 
+        used in our program's. 
