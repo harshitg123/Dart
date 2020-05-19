@@ -24,7 +24,7 @@
    * Goto https://dart.dev/tools/sdk/archive for windows.
    * Goto https://dart.dev/get-dart for Linux and Mac.
      
-         step 1: Download the zip file from above url.
+         step 1: Download the zip file from above url(stable version).
   ![](image's/1.png)   
          
          step 2: Un zip the download file i.e. extract that file.
