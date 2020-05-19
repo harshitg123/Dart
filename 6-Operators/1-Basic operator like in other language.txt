@@ -1,0 +1,62 @@
+Like all other language Dart also has some basic operators:
+	
+	1. Aritmetic operators
+	2. Relational Operators
+	3. Unary operator
+	4. Logical Operator
+
+=========================================================================================================================
+Aritmetic operators:
+=========================================================================================================================
+	
+	1. Add (+)
+	2. subtract (-)
+	3. Multiply (*)
+	4. Divide (/)
+	5. Modular division (%)
+
+============================================================================================================================
+Relational Operators:
+============================================================================================================================
+
+	1. '==' for checking if L.H.S = R.H.S or not.
+	2. '<=' for checking tha L.H.S is less then or equal to R.H.S.
+	3. '>=' for checking tha L.H.S is grater then or equal to L.H.S.
+	4. '!=' for checking tha L.H.S is not equal to R.H.S.
+
+Above all operator returns true or false based on the condition.
+
+============================================================================================================================
+Unary operator:
+============================================================================================================================
+
+	1. '++i': this is equal to i = i + 1; and and is known as pre-incerement operator 
+                  it works like this first increase the value by one then perform any task.
+	
+	2. 'i++': this is also equal to i = i + 1; and and is known as post-incerement operator 
+                  it works like this first perform any task then increase the value by one.
+
+	3. '--i': same as ++i but it performs subtraction.
+
+	4. 'i--': same as i++ but it performs subtraction.
+
+==============================================================================================================================
+Logical Operator:
+==============================================================================================================================
+
+	1. And (&&) : this operator checks weather all the condition associated with and operator is true or not.
+	
+	2. OR (||) : this operator checks the condition if atleast one condition is true then whole condition will become true.  
+
+===============================================================================================================================
+Imoprtant Notes:
+===============================================================================================================================
+
+Note 1: you can use some aritmetic operator like this;
+		
+	1. a+=1; //a = a+1;
+	2. d*=3; //d = d*3; etc.
+
+Note 2: you will better understand with an example.
+
+Note 3: "~/" operator return's an integer

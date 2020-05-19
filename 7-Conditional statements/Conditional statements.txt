@@ -1,0 +1,77 @@
+Like other programming language Dart also has some condetional statements:
+
+        1. if and else , else if
+	2. switch
+
+====================================================================================================================================
+1. if and else , else if:
+====================================================================================================================================
+
+Syntax of if else statement are:
+
+	if(<check condition>)
+	{
+	   Body of if
+	}
+	else
+	{
+	   Body of else
+	}
+
+The conditional statements check the condition and returns true or false if, if condition is true then body of if will execute 
+and else will not execute and if the condition of if is false then if body will skip and else will execute.
+
+Syntax of else if are:
+
+	if(<check condition>)
+	{
+	   Body of if
+	}
+	else if (<check condiion>)
+	{
+	   Body of else if
+	}
+	.
+	.
+	.
+	else
+	{
+	   Body of else
+	}
+
+The if else if statement are slightly diffrent because if the condition of if is true all else if and else will skip only 
+the body of if will executed and if the condition of if is false then compliler check the condition of else if statements 
+one by one if any condition matched then rest all the else if statement will skip along with the else and if the condition 
+of if and if else will false then only else will execute. 
+
+=====================================================================================================================================
+2. switch:
+=====================================================================================================================================
+
+Syntax of switch statement:
+
+	switch(<number or character>)
+	{
+	  case <number or character>:
+		body
+		break;
+	  .
+   	  .
+	  .
+	  default:
+		body
+		break;
+	}
+
+We can say switch is somewhat same as if in switch we have diffrent cases and there body if any case will true then body 
+related to that case will execute and if no case is true then default case will execute.
+
+=====================================================================================================================================
+Important Notes:
+=====================================================================================================================================
+
+Note 1: The else statement should be just after if, if some other statements comes in between if and else then your code 
+        will generate some error and same is for if, else if and else. 
+
+Note 2: We use break keyword to break the switch because if any case will true and break is not there then after all the 
+        cases will automatically get true and will execute.  

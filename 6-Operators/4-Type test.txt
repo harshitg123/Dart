@@ -1,0 +1,5 @@
+Type test is for knowing the data type of the variable
+or it has not standard function or object to find the type of the
+vaiable we can find it by some sort of if statements
+
+please visit to an example for type test

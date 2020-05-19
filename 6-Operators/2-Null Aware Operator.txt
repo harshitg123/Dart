@@ -1,0 +1,16 @@
+Null aware operator ?., ??, ??=
+null aware operator are present in mordern languages like Dart, Swift etc
+
+Syntax of null aware operator:
+	
+	1. for ?. is some what similar to if statement like
+		if (a != null) or a?.<name of the variable which is to be accessed>
+	
+	2. for ?? is like if a==null then put some default value like:
+		a?.<name of the variable which is to be accessed> ?? 100
+           that means if a is null then assign 100 to it	
+	
+	3. for ??= is like if a is null then assign some value to it like:
+		a ??= 100
+
+Note: you will understand this thing clearly with an example.	

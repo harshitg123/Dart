@@ -1,0 +1,60 @@
+Loop is used for repeatation of some thing to a finite number
+
+In Dart there are 5 types of loop:
+	1. for loop.
+	2. for-in loop.
+	3. for each loop.
+	4. while loop.
+	5. do while loop.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+syntex of for loop:
+		
+		for(<initilazation> ; <condition> ; <increment or decerement>)
+		{
+			body 
+		}
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+syntex of for-in loop:
+		
+		for(var a in <array or list or etc>)
+		{
+			body 
+		}
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+for each loop is used to access each value of particular
+
+syntax:
+	<variable>.forEach( (n) => print(n))
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Syntax for while loop:
+
+		while(<condition>)
+		{
+			body
+		}
+while loop is same as for but it is small and compact
+-----------------------------------------------------------------------------------------------------------------------------------
+
+syntax for do while loop:
+
+		do{
+			body of do
+		  
+	          }while(<condition>)
+
+do while loop is slightly diffrent in this type of loop the body of do while will execute atleast once always.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Notes: "=> " i'll explain this in a function tutorial.
+
+
+
+
+

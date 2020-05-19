@@ -1,0 +1,9 @@
+Break and continue are very usefull keyword's used in almost modern language's
+they are genrally used with loop's and switch case's.
+
+syntax of break:
+		  break;
+
+
+syntax of break:
+		  continue;

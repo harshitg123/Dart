@@ -1,0 +1,3 @@
+Syntax of ternary operator is:
+
+	<condition> ? <For true> : <For false>
