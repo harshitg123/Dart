@@ -6,7 +6,7 @@ set is un-structured or un-ordered collection's in Dart:
 
 
 1. Set do not contain same value if we insert same value to set it will only display 
-   it once as we know from the defination of the set.
+   it once as we know from the definition of the set.
 
 2. If we want to make an empty set we should use the following syntax:
 
