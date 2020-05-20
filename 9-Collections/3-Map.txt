@@ -1,0 +1,16 @@
+Map is like dictionary in python i.e which can contain keys values pair.
+
+syntax:
+
+	Map <name> = {"key": "values"};
+		     or
+	var <name> = {"key":"values"};
+
+1. Map has key values pairs and it can contain int, double also.
+
+2. The empty Map can be made through the following way's:
+
+syntax:
+	var <name> = Map();
+		or
+	Map <name> = Map(); 

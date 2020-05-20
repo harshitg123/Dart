@@ -1,0 +1,40 @@
+1. Like in most of the other programming languages array's are there in dart we 
+   have "List" which is slightly upgraded from array. 
+
+	general syntyax of List are:
+	
+		   List <name of the list> = [<value>,<value>,<value>];				
+
+
+2. List has the index no. starting from 0.
+
+3. List are mutable i.e the value of list can be changed.
+
+		   <name of the list>[<index>] = "new value";
+
+
+4. we can store any type of value's in List like String, int, double.
+
+		   List employee = ["harshit", "Gupta", 24, 100000.5];
+
+
+5. we can make list as specific for example String.
+
+		   List <String> employee = ["harshit", "gupta"];
+
+
+6. we can make the values of the list as constant also.
+
+		   List <String> employee = const ["harshit", "gupta"];
+   now this will not change the const keyword makes it immutable.
+
+7. The length of the list can be calculated by:
+
+		    <List_name>.length
+
+8. we can copy one list to another list by:
+
+		    List nam_1 = ["hello"];
+		    List nam_2 = [];
+
+		    nam_2 = [...nam_1];// this will copy the value of first list into second list.

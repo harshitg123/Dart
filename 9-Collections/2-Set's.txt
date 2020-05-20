@@ -1,0 +1,15 @@
+set is un-structured or un-ordered collection's in Dart:
+
+	general syntax of sets in Dart is:
+			
+		var <name> = {<values>,<values>};
+
+
+1. Set do not contain same value if we insert same value to set it will only display 
+   it once as we know from the defination of the set.
+
+2. If we want to make an empty set we should use the following syntax:
+
+		var <name> = <string or int or double>{};
+			  or
+		Set <string> <name> = {}; 
