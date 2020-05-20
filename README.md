@@ -37,7 +37,7 @@
          step 4: Open command prompt and set the directory to the bin folder of dart-sdk and run it for once.        
   ![](image's/5.png)
         
-         step 5: Add Dart Path to PATH Environment Variable(it's C not D).
+         step 5: Add Dart Path to PATH Environment Variable(it's C not D in my case).
   ![](image's/4.png)
            
          step 6: Restrt the command prompt.
