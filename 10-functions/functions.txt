@@ -1,0 +1,86 @@
+In Dart there are basic two types of function's argument:
+	1. Positional argument.
+	2. Named agument.
+
+We will see these two types in details later, first we will see the syntax and 
+from how many ways we can define a functon.
+
+1. A function is the important thing in the programming which we can use multiple times
+   for the same purpose we do not have to write the same code for various times.
+
+syntax:
+	<return type><name of the function>(<argument as variable>)
+	{
+		body of the function
+	}
+
+2. The alternate way to define the function using "=>"(Fat arrow) is:
+
+syntax:
+	<return type><name of the function>(<argument as variable>) => body of function
+
+3. Name less function or anonymous function is also used which does not contain any name
+   of the function this function is genraly use by forEach loop because forEach loop can 
+   contain functions.
+
+syntax:
+	<collection>.forEach((<argunment>){body of function)};
+
+   we will better understand this thing with an example.
+
+
+
+Now we will see the type of the argunment of function.
+==============================================================================================================================
+1. positional argument:
+==============================================================================================================================
+
+In possitional argument the possition of the argument of function during call and where the 
+function is defined is same for example:
+
+	main()
+	{
+	  print(sum(9,1));
+	}
+
+	dynamic sum(var num1 ,var num2) => num1 + num2;
+	
+
+In this case num1 will become 9 and num2 will become 1 i.e the possitons.  
+
+===============================================================================================================================
+2. Named argument:
+===============================================================================================================================
+
+For named parameter we will use curly braces i.e we will put the argument in curly braces
+and during call we will assign the values to the name, this will form a Named argument for example:
+
+	main()
+	{
+	  print(sum(name2: 9, name1: 1));
+	}
+
+	dynamic sum({var num1 ,var num2}) => num1 + num2;
+
+we can also use this named type parameter like suppose if I want to make num2 as optional parameter and
+num1 is possitional parameter.
+
+	main()
+	{
+	  print(sum(11));
+	  print(sum(11), num2: 9);
+	}
+
+	dynamic sum(var num1 ,{var num2}) => num1 + (num2 ?? 0);
+
+If we want to make optional parameter in possition type then we will use square braces i.e 
+we will put that argunment in the square braces for example.
+
+	main()
+	{
+	  print(10);
+	  print(sum(9,1));
+	}
+
+	dynamic sum(var num1 ,[var num2=0]) => num1 + num2;
+	
