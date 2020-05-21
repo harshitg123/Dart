@@ -1,0 +1,8 @@
+In dart we are having 4 types of constructor:
+	1. Default constructor.
+	2. parameterized constructor.
+	3. Named constructor.
+	4. constant constructor.
+
+we will see all these constructors in our example section also constant constructor are not 
+so useful in oop but it is important in GUI so w will discuss it later

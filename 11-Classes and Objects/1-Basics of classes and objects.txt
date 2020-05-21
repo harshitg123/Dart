@@ -1,0 +1,15 @@
+In oop(object oriented programming) class is very important in Dart we can make these classes:
+
+syntex:
+	class <name of the class>
+	{
+	   body of the class
+	}
+	main()
+	{
+           //object of the class
+	   <Name of the class or var> <object name> = <Name of the class>(); 
+	   and, body of the class
+	}
+
+Note: We will understand everything related to class from EXAMPLES.
