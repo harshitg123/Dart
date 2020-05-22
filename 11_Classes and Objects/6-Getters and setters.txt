@@ -1,0 +1,10 @@
+Getters and setters are to get and set the values in a instance variable.
+
+	1. Default getter and setter.
+	2. custom getter and setter.
+	3. private Instance variable.
+
+we have two key words "get" and "set" for Getters and setters and to make private Instance variable
+we have a symbol "_".
+
+we will see this with the help of an example. 

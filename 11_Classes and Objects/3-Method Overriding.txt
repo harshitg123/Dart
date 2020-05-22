@@ -1,0 +1,4 @@
+Method Overriding is a mechanism by which a child class redefines a 
+method in its parent class.
+
+this we will understand through an example.
