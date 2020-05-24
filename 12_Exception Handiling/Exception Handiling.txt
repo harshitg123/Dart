@@ -1,0 +1,19 @@
+Exception handiling occur when there is some issue in our program i.e if our program is trying
+to divide integer with zero then our program will generate an error of "IntegerDivisionByZeroException".
+
+we can handel error by:
+	
+	1. on clause.
+	2. catch clause with Exception object.
+	3. catch clause with Exception object and StackTrace object.
+	4. Finally clause.
+
+- we use on clause when we know the type of error can come.
+
+- we use catch clause when we don't know the type of error.
+
+- we use catch clause and StackTrace object when we don't know 
+  the type of error and if we wanna know what are executed 
+  before error came up.
+
+- finally clause will always execute.
